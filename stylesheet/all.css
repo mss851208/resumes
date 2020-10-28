@@ -153,7 +153,7 @@ button .btn-active {
 /* Start Header area*/
 .footer-area {
   padding: 5rem 0;
-  background: url(/img/footer-bg.png) no-repeat;
+  background: url(../../img/footer-bg.png) no-repeat;
 }
 
 .footer-area .social h5 {
@@ -195,7 +195,7 @@ button .btn-active {
 }
 
 .site-main .site-banner {
-  background: url(/img/banner/home-banner.png) no-repeat 0% 50%;
+  background: url(../../img/banner/home-banner.png) no-repeat 0% 50%;
 }
 
 .site-main .site-banner .site-title h3 {
@@ -331,7 +331,7 @@ button .btn-active {
 }
 
 .site-main .brand-area .experience-area .years-area {
-  background: url(/img/client-info-bg.png) no-repeat 45px 20px;
+  background: url(../../img/client-info-bg.png) no-repeat 45px 20px;
   padding: 2rem 0;
   height: 18rem;
   padding-left: 8rem;
